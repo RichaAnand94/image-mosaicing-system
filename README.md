@@ -9,6 +9,7 @@ Details:
 Image mosaicing system  enables to combine together many small images into a one large image. A mosaiced image is the composition of sequence of images , it can be obtained by finding out the coordinate relationship between the overlapping images. This coordinate relationship is between the pixels of one image and in another image which creates a mosaiced image. This relationship must be develop carefully to match the pixels between two images. This is done with the help of homography estimation. 
 
 This project includes three main procedures :
+
 .>Image Acquisition
 
 .>Image Registration
