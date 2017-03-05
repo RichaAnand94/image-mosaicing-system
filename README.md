@@ -1,5 +1,5 @@
 # image-mosaicing-system
-PROJECT Name: Image Mosaicing System
+PROJECT Name: IMAGE MOSAICING SYSTEM
 
 Supervisor Name: Dr. Rajiv Kumar
 
