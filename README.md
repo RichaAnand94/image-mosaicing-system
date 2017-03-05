@@ -1,7 +1,10 @@
 # image-mosaicing-system
 PROJECT Name: Image Mosaicing System
+
 Supervisor Name: Dr. Rajiv Kumar
+
 Group Number : 26
+
 Groupmate Name: Priyanshi Singh and Rakhi Singh
 
 Details:
@@ -17,11 +20,14 @@ This project includes three main procedures :
 .>Image Blending
 
 Image Acquisition:
+
 The first stage of Image Mosaicing system is the image acquisition stage. The image which is taken from  digital camera is used for mosaicing the image .
 
 Image Registration:
+
 The process of transforming the different sets of data into one coordinate system. This includes two main process: feature detection and feature mapping.
 
 Image Blending:
+
 It is a technique which modifies the image gray levels in the vicinity of a boundary to obtain a smooth transition between images.It is done to minimize the visibility of seams between images.
 Using these we create a mosaiced image, which is a overlapping of two or more images of same scene.
