@@ -30,4 +30,5 @@ The process of transforming the different sets of data into one coordinate syste
 Image Blending:
 
 It is a technique which modifies the image gray levels in the vicinity of a boundary to obtain a smooth transition between images.It is done to minimize the visibility of seams between images.
+
 Using these we create a mosaiced image, which is a overlapping of two or more images of same scene.
