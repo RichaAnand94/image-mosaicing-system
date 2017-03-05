@@ -1,7 +1,10 @@
 # image-mosaicing-system
 PROJECT Name: Image Mosaicing System
+
 Supervisor Name: Dr. Rajiv Kumar
+
 Group Number : 26
+
 Groupmate Name: Priyanshi Singh and Rakhi Singh
 
 Details:
