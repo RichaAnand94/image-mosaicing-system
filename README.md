@@ -5,7 +5,9 @@ Supervisor Name: Dr. Rajiv Kumar
 
 Group Number : 26
 
-Groupmate Name: Priyanshi Singh and Rakhi Singh
+Groupmate Name: 
+Priyanshi Singh url: https://github.com/priyanshi82/Image-mosaicing-system1.git
+Rakhi Singh url : https://github.com/rakhi21/Image-Mosaicing-system.git
 
 Details:
 
