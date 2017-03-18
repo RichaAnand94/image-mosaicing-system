@@ -7,6 +7,7 @@ Group Number : 26
 
 Groupmate Name: 
 Priyanshi Singh url: https://github.com/priyanshi82/Image-mosaicing-system1.git
+
 Rakhi Singh url : https://github.com/rakhi21/Image-Mosaicing-system.git
 
 Details:
@@ -34,3 +35,8 @@ Image Blending:
 It is a technique which modifies the image gray levels in the vicinity of a boundary to obtain a smooth transition between images.It is done to minimize the visibility of seams between images.
 
 Using these we create a mosaiced image, which is a overlapping of two or more images of same scene.
+
+In the first module after acquiring the image we detect the corner features of images. for this each group member has used a different detection techniques which are FAST feature detection, minimum eigen value and Harris corner detection and compared them to find the best technique on the basis of their performance.  I have worked  on harris corner detection. 
+
+In the second module of the project we had match the detected features using RANSAC algorithm. In this algorithm I had worked on getdescriptor which is used to get the matching points of two overlapping images.
+
